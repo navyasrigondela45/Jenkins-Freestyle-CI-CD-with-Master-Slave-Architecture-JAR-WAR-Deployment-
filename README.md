@@ -42,7 +42,17 @@ Developer → Git Push → Webhook → Jenkins Master → Slave Nodes → Build 
 ## 📊 Outputs
 
 * EC2 instances view:
+* 
 <img width="1537" height="475" alt="image" src="https://github.com/user-attachments/assets/53a4e46e-642e-4dc7-852c-8a9fdb1d5536" />
+
+* Webhook-trigger on both the repos:
+  
+  <img width="1918" height="947" alt="image" src="https://github.com/user-attachments/assets/86ddc5cc-8b9e-40f6-95b8-c719c79ef3cb" />
+  <img width="1918" height="947" alt="image" src="https://github.com/user-attachments/assets/bb4ee022-4323-4bcf-879a-b651e79feb22" />
+
+* Jenkins Dashboard:
+  
+  <img width="1918" height="626" alt="image" src="https://github.com/user-attachments/assets/54580ddd-fee2-49f1-b148-0ed358e6a18f" />
   
 * Successful JAR build (console output)
   <img width="1918" height="780" alt="image" src="https://github.com/user-attachments/assets/82e6b4f6-778a-4bb5-b5c4-b48f8d856337" />
@@ -63,11 +73,6 @@ Developer → Git Push → Webhook → Jenkins Master → Slave Nodes → Build 
 
 * Jenkins slave nodes
   <img width="1918" height="660" alt="image" src="https://github.com/user-attachments/assets/28b7a6c6-5e04-49e7-a6a8-5536c85882bd" />
-
-* Webhook-trigger on both the repos:
-  
-  <img width="1918" height="947" alt="image" src="https://github.com/user-attachments/assets/86ddc5cc-8b9e-40f6-95b8-c719c79ef3cb" />
-  <img width="1918" height="947" alt="image" src="https://github.com/user-attachments/assets/bb4ee022-4323-4bcf-879a-b651e79feb22" />
 
 ---
 
