@@ -57,7 +57,7 @@ Developer → Git Push → Webhook → Jenkins Master → Slave Nodes → Build 
 * Successful JAR build (console output)
   <img width="1918" height="780" alt="image" src="https://github.com/user-attachments/assets/82e6b4f6-778a-4bb5-b5c4-b48f8d856337" />
 
-* Successful WAR build and deployment
+* Successful WAR build and deployment (console output)
   <img width="1918" height="578" alt="image" src="https://github.com/user-attachments/assets/0dd247ca-fc81-482d-b15c-dd9618fc7cd3" />
   <img width="1920" height="610" alt="image" src="https://github.com/user-attachments/assets/64591882-3211-454a-90d3-9f69a75062d6" />
 
